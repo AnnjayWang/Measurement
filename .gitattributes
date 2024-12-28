@@ -1,0 +1,17 @@
+. filter=lfs diff=lfs merge=lfs -text
+main.cpp filter=lfs diff=lfs merge=lfs -text
+mainwindow.ui filter=lfs diff=lfs merge=lfs -text
+Measurement.pro filter=lfs diff=lfs merge=lfs -text
+Measurement.pro.user filter=lfs diff=lfs merge=lfs -text
+logwidget.cpp filter=lfs diff=lfs merge=lfs -text
+mainwindow.cpp filter=lfs diff=lfs merge=lfs -text
+dynamicsthread.cpp filter=lfs diff=lfs merge=lfs -text
+mainwindow.h filter=lfs diff=lfs merge=lfs -text
+algorithm.h filter=lfs diff=lfs merge=lfs -text
+build filter=lfs diff=lfs merge=lfs -text
+dynamicsthread.h filter=lfs diff=lfs merge=lfs -text
+logwidget.h filter=lfs diff=lfs merge=lfs -text
+logwidget.ui filter=lfs diff=lfs merge=lfs -text
+menudialog.h filter=lfs diff=lfs merge=lfs -text
+PCL.pri filter=lfs diff=lfs merge=lfs -text
+RIEGL.pri filter=lfs diff=lfs merge=lfs -text
